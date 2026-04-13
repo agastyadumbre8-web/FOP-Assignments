@@ -1,6 +1,6 @@
 /*
-* File Owner: Rahul Krishna
-* PRN: 1262250870
+* File Owner: Agastya Dumbre
+* PRN: 1262254028
 * Batch: I2
 * Description: This program finds the smallest common divisor (other than 1) and the greatest common divisor (GCD) of two given numbers using the Euclidean algorithm.
 */
